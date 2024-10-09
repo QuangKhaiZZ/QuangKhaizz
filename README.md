@@ -1,5 +1,5 @@
 
-<h2> Hi there, I'm Hachiman! <img src="https://media.giphy.com/media/97xxAvi2as7cgptLil/giphy.gif" width="100"></h2> 
+<h2> Hi there, I'm Hachiman! 
  <h3 align="center" font-size-"30">Programming languages ​​and tools<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgxMmppbTZhMndrZWg5MGpkMWo0Mjhma21zbmc0cTlmZGllZWIyeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mymKetTBaHvoCNJ72Z/giphy.gif" width="100"></h3>
 <br>
 <div align=center>
