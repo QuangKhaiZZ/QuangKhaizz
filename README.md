@@ -33,10 +33,10 @@
 
 <div align=center>
   <a href="#" title="QuangKhaiZZ-">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hades&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuangKhaiZZ&theme=dark&hide_border=false)%3Cbr/%3E" />
   </a>
   <a href="#" title="QuangKhaiZZ">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Qkhachiman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)%3Cbr/%3E" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangKhaiZZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </div>
 <br>
