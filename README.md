@@ -36,7 +36,7 @@
     <img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuangKhaiZZ&theme=dark&hide_border=false)%3Cbr/%3E" />
   </a>
   <a href="#" title="QuangKhaiZZ">
-    <img align="right" width="434" src="![QuangKhaiZZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangKhaiZZ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangKhaiZZ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
 <br>
