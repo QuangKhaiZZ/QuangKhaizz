@@ -41,7 +41,7 @@
 </div>
 <br>
 <div align=center>
-![QuangKhaiZZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuangKhaiZZ&theme=vue-dark&hide_border=true)
+
   
 </div>
 
